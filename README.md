@@ -1,7 +1,7 @@
 # trafficLight
 
-## On pycharmCE: \n
+## On pycharmCE:
 
-  \n $ pip install opencv-python
-  \n $ pip install opencv-contrib-python
-  \n $ pip install imutils
+  <br> $ pip install opencv-python </br>
+  <br> $ pip install opencv-contrib-python </br>
+  </br> $ pip install imutils </br>
